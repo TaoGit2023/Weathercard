@@ -13,12 +13,13 @@
                     -Time(渲染样式)
                     -Date(渲染样式)
                 -CityWeather(渲染样式，布局)
-                    -Temperature(渲染样式)
-                    -Sun(渲染样式,布局)
-                        -SunRiseIcon(渲染样式)
-                        -SunRiseTime(渲染样式)
-                        -SunSetIcon(渲染样式)
-                        -SunSetTime(渲染样式)
+                    -TemperatureSun
+                        -Temperature(渲染样式)
+                        -Sun(渲染样式,布局)
+                            -SunRiseIcon(渲染样式)
+                            -SunRiseTime(渲染样式)
+                            -SunSetIcon(渲染样式)
+                            -SunSetTime(渲染样式)
                     -Weather(渲染样式)
                         -WeatherIcon
                         -Weather
